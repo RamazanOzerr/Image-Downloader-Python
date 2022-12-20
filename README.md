@@ -2,8 +2,8 @@
 Python Image downloader with PyQt5, requests, Random, sys, string modules
 
 # Features
-downloads the image from url taken from user
-saves it into the path taken from user with a random name
+1- downloads the image from url taken from user 
+2- saves it into the path taken from user with a random name
 
 # Images
 ![image](https://user-images.githubusercontent.com/96844411/208731044-86b785e9-1898-4d22-8cef-4290fbb2e5f7.png)
